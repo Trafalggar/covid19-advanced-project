@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# too loud
+data/raw/
+logs/
+
+# Environnements
+.venv/
+.env
